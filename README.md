@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David J
 - 👀 I’m interested in CV and web development
-- 🌱 I’m currently learning pytorch
+- 🌱 I’m currently learning vue and react.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
